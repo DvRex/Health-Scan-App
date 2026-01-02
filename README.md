@@ -1,16 +1,18 @@
-# health_check
+# Health Check App 🏥
 
-A new Flutter project.
+Health Check adalah aplikasi *mobile* dan *web* yang dirancang untuk membantu pengguna melakukan pemeriksaan kesehatan mandiri (Self-Assessment) dengan antarmuka yang sederhana dan intuitif.
 
-## Getting Started
+Aplikasi ini dibangun menggunakan framework **Flutter**, sehingga dapat berjalan dengan lancar baik sebagai aplikasi Android maupun Website.
 
-This project is a starting point for a Flutter application.
+## 🚀 Fitur Utama
 
-A few resources to get you started if this is your first Flutter project:
+- **Multi-Platform:** Dapat diakses melalui Android (APK) dan Web Browser.
+- **Antarmuka Modern (UI/UX):** Desain yang bersih, responsif, dan mudah digunakan oleh siapa saja.
+- **Sistem Cek Gejala:** Formulir interaktif untuk memasukkan keluhan atau gejala kesehatan.
+- **Ringan & Cepat:** Dioptimalkan untuk performa yang maksimal di berbagai perangkat.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Teknologi yang Digunakan
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Framework:** [Flutter](https://flutter.dev/) (Dart)
+- **Deployment Web:** Vercel
+- **IDE:** Visual Studio Code
